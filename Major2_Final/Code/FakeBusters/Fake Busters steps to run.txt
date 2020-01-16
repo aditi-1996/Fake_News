@@ -1,0 +1,13 @@
+Requirements
+Node Js
+Tensorflow==0.12
+API Key for Event Registry
+API Key for Microsoft Azure Cognitive Services
+
+
+Instructions to Run Fake Busters
+1- open cmd inside the folder path of fake busters and type python hello.py
+2-open localhost:5000 in browser and then open localhost:5000/claims
+3-open new cmd inside the fake busters web_app folder
+4-npm install for first time only and for subsequent runs just step 5
+5-npm start
